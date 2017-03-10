@@ -4,8 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <SurfaceView
-        android:id="@+id/demo_a_sv"
+    <!--<SurfaceView-->
+        <!--android:id="@+id/demo_a_sv"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+
+    <TextureView
+        android:id="@+id/demo_a_ttv"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
